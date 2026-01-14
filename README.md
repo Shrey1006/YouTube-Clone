@@ -9,12 +9,12 @@ A simple **YouTube clone** built using HTML and CSS. This project replicates the
 - Styled with separate **CSS files** for modularity  
 
 ## File Structure
-img/ -> Folder containing images
-general.css -> General styling
-header.css -> Header specific styling
-sidebar.css -> Sidebar specific styling
-preview.css -> Video preview section styling
-youtube.html -> Main HTML file
+- img/ -> Folder containing images
+- general.css -> General styling
+- header.css -> Header specific styling
+- sidebar.css -> Sidebar specific styling
+- preview.css -> Video preview section styling
+- youtube.html -> Main HTML file
 
 
 ## How to Use
